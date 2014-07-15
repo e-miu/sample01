@@ -1,0 +1,11 @@
+{
+  "name": "sample01",
+  "subdomain": "nukota-sample01",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
